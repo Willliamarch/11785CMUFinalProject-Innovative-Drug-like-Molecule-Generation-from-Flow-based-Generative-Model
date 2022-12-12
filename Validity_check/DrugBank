@@ -1,0 +1,14 @@
+Dexamethasone : [H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+Topotecan : CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=C(C=CC(O)=C4CN(C)C)N=C13)C2=O
+Hydrocortamate : [H][C@@]12CC[C@](O)(C(=O)COC(=O)CN(CC)CC)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+Hesperetin : COC1=C(O)C=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O)C=C2O1
+Alizapride : COC1=CC2=NNN=C2C=C1C(=O)NCC1CCCN1CC=C
+Amisulpride : CCN1CCCC1CNC(=O)C1=CC(=C(N)C=C1OC)S(=O)(=O)CC
+Metoclopramide : CCN(CC)CCNC(=O)C1=CC(Cl)=C(N)C=C1OC
+Ergonovine : [H][C@@]12CC3=CNC4=CC=CC(=C34)C1=C[C@H](CN2C)C(=O)N[C@@H](C)CO
+Physostigmine : [H][C@]12N(C)CC[C@@]1(C)C1=C(C=CC(OC(=O)NC)=C1)N2C
+Ridinilazole : N1C2=CC(=CC=C2N=C1C1=CC=NC=C1)C1=CC2=C(C=C1)N=C(N2)C1=CC=NC=C1
+Glasdegib : CN1CC[C@H](C[C@@H]1C1=NC2=CC=CC=C2N1)NC(=O)NC1=CC=C(C=C1)C#N
+Stanozolol : [H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC3=NNC=C3C[C@]12C
+Ridinilazole : N1C2=CC(=CC=C2N=C1C1=CC=NC=C1)C1=CC2=C(C=C1)N=C(N2)C1=CC=NC=C1
+Glasdegib : CN1CC[C@H](C[C@@H]1C1=NC2=CC=CC=C2N1)NC(=O)NC1=CC=C(C=C1)C#N
